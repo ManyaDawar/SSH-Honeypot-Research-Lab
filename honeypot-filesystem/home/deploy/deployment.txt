@@ -1,0 +1,10 @@
+Northstar Analytics - Deployment Notes
+
+Application: NorthstarPortal
+Target: ns-web-01
+Deployment directory: /var/www/northstar
+
+Recent tasks:
+- Verify application configuration.
+- Check deployment logs.
+- Confirm application service is running.

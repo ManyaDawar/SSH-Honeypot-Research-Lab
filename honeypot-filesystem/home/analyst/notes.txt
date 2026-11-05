@@ -1,0 +1,12 @@
+Northstar Analytics - Internal Notes
+
+Server: ns-web-01
+Application: NorthstarPortal
+Database: northstar_prod
+
+Reminder:
+- Review the latest database backup.
+- Check the application deployment logs.
+- Contact the infrastructure team about the storage warning.
+
+Temporary test credential: FAKE_ONLY_NOT_VALID

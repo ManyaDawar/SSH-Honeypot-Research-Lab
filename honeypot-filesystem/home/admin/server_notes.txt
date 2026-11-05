@@ -1,0 +1,12 @@
+Northstar Analytics - Server Administration
+
+Primary server: ns-web-01
+Environment: Production
+Application: NorthstarPortal
+
+Maintenance:
+- Review system resource usage.
+- Monitor authentication failures.
+- Check application service status.
+
+Contact: Infrastructure Team

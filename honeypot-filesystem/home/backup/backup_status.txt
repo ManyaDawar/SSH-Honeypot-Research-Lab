@@ -1,0 +1,11 @@
+Northstar Analytics - Backup Status
+
+Database: northstar_prod
+Backup schedule: Daily
+Last backup: 2026-11-04
+Status: Completed
+
+Reminder:
+- Verify backup integrity.
+- Review storage capacity.
+- Report failed backup jobs.

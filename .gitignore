@@ -1,0 +1,21 @@
+# Python environment
+cowrie-env/
+venv/
+__pycache__/
+*.pyc
+
+# Cowrie runtime data
+/var/
+northstar-fs.pickle
+*.log
+*.json
+*.tty
+
+# Credentials and secrets
+etc/userdb.txt
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
